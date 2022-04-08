@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbtable>
+    <!--
+    0=根目录 1=子目录 2=子目录平铺
+    -->
+    <!--UI-->
+    <item source_path="2D_UI/技能图标" target_path="res/ui/sprite/iconskill" suffix="*.*" sub_dir="2" />
+</dbtable>
